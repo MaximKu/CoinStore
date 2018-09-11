@@ -1,0 +1,7 @@
+#comment
+*.git
+*.obj
+*.pdb
+*.dll
+*.exe
+*~
